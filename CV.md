@@ -21,4 +21,5 @@ Work experience
 
 * 2017.08 - present (Online Internship)  Chinathinktanks.org.cn
 * 2016.07 - 2016.08 (Summer Internship) Shanxi/China Resources Taiyuan Coal Co.,Ltd
+aaaaaa
 

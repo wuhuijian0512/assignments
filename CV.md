@@ -1,7 +1,7 @@
 CV Huijian Wu
 ============
 
-
+* Email: Wuhuijian0512@163.com
 
 <img src="http://www.cpb.nl/sites/default/files/pictures/picture-4302.jpg" width="48">
 
@@ -21,6 +21,7 @@ Work experience
 
 * 2017.08 - present (Online Internship)  Chinathinktanks.org.cn
 * 2016.07 - 2016.08 (Summer Internship) Shanxi/China Resources Taiyuan Coal Co.,Ltd
+
 
 Basic Skills
 ------------

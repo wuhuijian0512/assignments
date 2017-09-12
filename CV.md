@@ -9,7 +9,7 @@ CV Huijian Wu
 Education
 ---------
 
-* school somewhere
+* Tilburg University
 * university somewhere else
 
 Work experience

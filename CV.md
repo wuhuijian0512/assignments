@@ -3,7 +3,6 @@ CV Huijian Wu
 
 * Email: Wuhuijian0512@163.com
 
-<img src="http://www.cpb.nl/sites/default/files/pictures/picture-4302.jpg" width="48">
 
 
 Education

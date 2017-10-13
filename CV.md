@@ -3,6 +3,9 @@ CV Huijian Wu
 
 * Email: Wuhuijian0512@163.com
 
+--------
+<a href="https://imgbb.com/"><img src="https://image.ibb.co/bUDA5b/DSC_0075.jpg" alt="DSC_0075" border="0"></a>
+
 
 
 Education

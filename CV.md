@@ -29,7 +29,7 @@ Basic Skills
 ------------
 
 * Computer
-** Stata  Microsoft Office  Python  R  AIMMS
+Stata  Microsoft Office  Python  R  AIMMS
 * Language
-** Mandarin (Mother Tongue) English (Proficient Academic English) Dutch (A2 Level)
+Mandarin (Mother Tongue) English (Proficient Academic English) Dutch (A2 Level)
 

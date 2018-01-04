@@ -14,9 +14,9 @@ Contact Details
 Education
 ---------
 
-* 2017.02 - present (Master) Tilburg University (Economics)<br/>
-_Master in Economics_<br/>
-_Major courses: financial economics & behavioural economics_<br/>
+* 2017.02 - present (Master)     Tilburg University (Economics)<br/>
+                                  _Master in Economics_<br/>
+                   _Major courses: financial economics & behavioural economics_<br/>
 
 * 2016.09 - 2016.12          Erasmus University<br/>
                              Rotterdam School of Management (Supply Chain Management)<br/>
@@ -49,13 +49,13 @@ Work experience
 Basic Skills
 ------------
 
-* Computer
+* Computer<br/>
   Stata<br/>
   Microsoft Office<br/>  
   Python<br/>  
   R<br/>  
   AIMMS<br/>
-* Language
+* Language<br/>
   Mandarin (Mother Tongue)<br/>
   English (Proficient Academic English)<br/> 
   Dutch (A2 Level)<br/>

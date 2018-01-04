@@ -50,13 +50,13 @@ Basic Skills
 ------------
 
 * Computer
-  * Stata<br/>
-    Microsoft Office<br/>  
-    Python<br/>  
-    R<br/>  
-    AIMMS<br/>
+  Stata<br/>
+  Microsoft Office<br/>  
+  Python<br/>  
+  R<br/>  
+  AIMMS<br/>
 * Language
-  * Mandarin (Mother Tongue)<br/>
-    English (Proficient Academic English)<br/> 
-    Dutch (A2 Level)<br/>
+  Mandarin (Mother Tongue)<br/>
+  English (Proficient Academic English)<br/> 
+  Dutch (A2 Level)<br/>
 

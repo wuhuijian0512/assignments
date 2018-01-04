@@ -23,11 +23,11 @@ Work experience
 
 * 2017.08 - 2018.01 (Online Internship)  Chinathinktanks.org.cn<br/>
  Online internship<br/>
-- Collecting academic research achievements every week on the field of industrial organization;<br/>
-- writing overview of these articles<br/>
+  Collecting academic research achievements every week on the field of industrial organization;<br/>
+  writing overview of these articles<br/>
 * 2016.07 - 2016.08 (Summer Internship) Shanxi/China Resources Taiyuan Coal Co.,Ltd<br/>
-- Assisting the production operation department to prepare and participate in asset verification program on company owned coal mines;<br/>
-- Collecting and organizing data.<br/>
+  Assisting the production operation department to prepare and participate in asset verification program on company owned coal mines;<br/>
+ Collecting and organizing data.<br/>
 
 
 Basic Skills

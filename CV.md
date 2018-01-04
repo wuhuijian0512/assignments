@@ -19,7 +19,7 @@ Education
                                     _Major courses: financial economics & behavioural economics_<br/>
 
 * 2016.09 - 2016.12              Erasmus University<br/>
-                                 Rotterdam School of Management (Supply Chain Management)<br/>
+                                 Rotterdam School of Management<br/>
                                                        _Major in Supply Chain Management_<br/>
                             _Major courses: managing the supply chain & global logistics_<br/>       
 * 2013.09 - 2016.06 (Bachelor)    Tilburg University (Economics)
